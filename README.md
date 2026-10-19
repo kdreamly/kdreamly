@@ -55,8 +55,12 @@ Senior Infrastructure & DevOps Engineer with **17+ years of hands-on experience*
 
 ## Certifications & Professional Development
 
-* **Active & Pursuing:** HashiCorp Certified: Terraform Associate, AWS Certified Solutions Architect – Associate, Red Hat Certified System Administrator (RHCSA) Track
-
 * **Microsoft Certified:** MCSE, MCSA, MCITP
 
 * **Cisco Networking Foundation:** CCNA, CCNA Security, CCNA CyberOps, CCNP Routing & Switching (Legacy)
+
+* **DevOps Bootcamp Diploma**
+
+* **Cloud Computing Training:** Implementing Microsoft Asure Infrastructure Solutions  
+
+  
